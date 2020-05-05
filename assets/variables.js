@@ -1,5 +1,5 @@
 export default {
-  nicknames: ["Habib Mustofa kun", "", "Habib", "Habib X Ely", "Habib X Khadijah"],
+  nicknames: ["Habib Mustofa - Kun", "", "Habib", "Habib X Ely", "Habib X Khadijah"],
   greetings: {
     evening: "Good Evening",
     afternoon: "Good Afternoon",
